@@ -15,7 +15,7 @@ class PetersHelper {
 	/**
 	 * @var string
 	 */
-	protected $logFile = '/tmp/id-debug.log';
+	protected $logFile = '/tmp/debug.log';
 
 	/**
 	 * @return PetersHelper
